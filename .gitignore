@@ -28,6 +28,10 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# build outputs (generated files)
+/public/outputs/
+/vault/
+
 # vercel
 .vercel
 
